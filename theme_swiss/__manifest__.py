@@ -8,6 +8,5 @@
     'depends': ['website', 'website_theme_install'],
     'data': [
     ],
-
     'license': 'LGPL-3',
 }
