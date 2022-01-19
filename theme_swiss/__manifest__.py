@@ -5,7 +5,7 @@
     'author': 'Erik Saryan',
     'category': 'Theme/Creative',
 
-    'depends': ['website', 'website_theme_install'],
+    'depends': ['theme_common'],
     'data': [
         'views/odoo_theme.xml'
     ],
