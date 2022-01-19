@@ -7,6 +7,7 @@
 
     'depends': ['website', 'website_theme_install'],
     'data': [
+        'views/odoo_theme.xml'
     ],
     'license': 'LGPL-3',
 }
