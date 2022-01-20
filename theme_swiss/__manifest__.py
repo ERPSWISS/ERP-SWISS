@@ -1,13 +1,11 @@
 {
     'name': 'Swiss Theme',
-    'description': 'A description for your theme.',
+    'description': 'Theme for Swiss project',
     'version': '1.0',
     'author': 'Erik Saryan',
     'category': 'Theme/Creative',
-
-    'depends': ['theme_common'],
+    'depends': ['website'],
     'data': [
-        'views/odoo_theme.xml'
     ],
-    'license': 'LGPL-3',
+    'application' : True
 }
