@@ -9,7 +9,7 @@
       </xpath>
 
       <!-- Add an element after the top menu  -->
-      <xpath expr="//div[@id='wrapwrap']/header/div" position="after">
+      <xpath expr="//div[@id='wrapwrap']/header/nav" position="after">
         <div class="container">
           <div class="alert alert-info mt16" role="alert">
           <strong>Welcome</strong> in our website!
