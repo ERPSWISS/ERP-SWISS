@@ -8,5 +8,6 @@
     'data': [
         'views/layout.xml'
     ],
-    'application' : True
+    'application' : True,
+    'license': 'LGPL-3',
 }
