@@ -6,6 +6,7 @@
     'category': 'Theme/Creative',
     'depends': ['website'],
     'data': [
+        'views/layout.xml'
     ],
     'application' : True
 }
